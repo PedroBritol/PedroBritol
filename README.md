@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <ahref="https://www.linkedin.com/in/pedro-henrique-brito-lucas-6a8073216/" target="_blank">Pedro Brito 😃️</a>
+    <a href="https://www.linkedin.com/in/pedro-henrique-brito-lucas-6a8073216/" target="_blank">Pedro Brito 😃️</a>
   </h1>
   
 </div>
