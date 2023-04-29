@@ -29,7 +29,7 @@
   <a href="https://www.instagram.com/pedrobrito04/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-henrique-brito-lucas-6a8073216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:pedro.henri.lucas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a><img height="28" src="https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:pb_lucasbpl@hotmail.com" target="_blank"></a>
+   <a href="mailto:pb_lucasbpl@hotmail.com"><img height="28" src="https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:pb_lucasbpl@hotmail.com" target="_blank"></a>
 </div>
 
 <div align="center">
